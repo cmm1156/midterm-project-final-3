@@ -136,13 +136,14 @@ body {
   text-decoration: none;
   transform: scale(1, 1.5);
   font-style: italic;
+  color: white;
 }
 
 #line4 a {
   color: white;
 }
 
-#line4 a:link, a:visited {
+#line4 a:active, a:visited {
   color: white;
 }
 #line4 a:link, a:hover {
