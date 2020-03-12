@@ -141,12 +141,13 @@ body {
 
 #line4 a {
   color: white;
+  text-decoration: none;
 }
 
-#line4 a:active, a:visited {
+#line4 a:link, a:visited {
   color: white;
 }
-#line4 a:link, a:hover {
+#line4 a:hover {
   color: red;
   animation:;
 }
